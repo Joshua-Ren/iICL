@@ -16,7 +16,7 @@ With the widespread adoption of Large Language Models (LLMs), the prevalence of 
 
 # About this repo
 The experiments we considered here are simple but quite helpful: we can directly observe many details during evolution, like the logits of all hypotheses, stats of the transferred data, etc.
-And all the experiments in the paper (including different settings, seeds, etc.) only take less than 5 dollars. But designing them takes me more than 1024 hairs.
+And all the experiments in the paper (including different settings, seeds, etc.) only take less than 5 dollars. ~~But designing them takes me more than 1024 hairs.~~
 
 ### Requirements
 - API of GPT, Claude, Mistral
