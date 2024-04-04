@@ -12,7 +12,7 @@ With the widespread adoption of Large Language Models (LLMs), the prevalence of 
 
 - Such a procedure could be depicted by the following Bayesian iterated learning framework (with interaction filter included): bias in prior would be amplified generation by generation and a good interaction phase can mitigate this.
 
-<div align=center><img src="https://github.com/Joshua-Ren/iICL/blob/main/iterated_learning_setting.pdf" width="480"/><img src="https://github.com/Joshua-Ren/better_supervisory_signal/blob/main/gifs/hardsamples.gif" width="220"/></div>
+<div align=center><img src="https://github.com/Joshua-Ren/iICL/blob/main/Bayesian_IL_setting.png" width="480"/></div>
 
 # About this repo
 The experiments we considered here are simple but quite helpful: we can directly observe many details during evolution, like the logits of all hypotheses, stats of the transferred data, etc.
