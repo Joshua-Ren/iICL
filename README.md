@@ -16,7 +16,8 @@ With the widespread adoption of Large Language Models (LLMs), the prevalence of 
 
 # About this repo
 The experiments we considered here are simple but quite helpful: we can directly observe many details during evolution, like the logits of all hypotheses, stats of the transferred data, etc.
-And all the experiments in the paper (including different settings, seeds, etc.) only take less than 5 dollars. ~~But designing them takes me more than 1024 hairs.~~
+All the experiments in the paper (including different settings, seeds, etc.) only take less than 5 dollars. ~~But designing them takes me more than 1024 hairs.~~
+You can just open the jupyter notebook file, run the code, and find the chat log and results in the corresponding folder (usually in model_name/experiment_name).
 
 ### Requirements
 - API of GPT, Claude, Mistral
