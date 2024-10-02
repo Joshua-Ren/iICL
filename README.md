@@ -1,5 +1,5 @@
 # Language Model Evolution: An Iterated Learning Perspective (iICL)
-This repository contains all the LLM experiments in [Language Model Evolution: An Iterated Learning Perspective]().
+This repository contains all the LLM experiments in [Bias Amplification in Language Model Evolution: An Iterated Learning Perspective](https://arxiv.org/abs/2404.04286).
 
 ### Abstract
 With the widespread adoption of Large Language Models (LLMs), the prevalence of iterative interactions among these models is anticipated to increase. Notably, recent advancements in multi-round self-improving methods allow LLMs to generate new examples for training subsequent models. At the same time, multi-agent LLM systems, involving automated interactions among agents, are also increasing in prominence. Thus, in both short and long terms, LLMs may actively engage in an evolutionary process. We draw parallels between the behavior of LLMs and the evolution of human culture, as the latter has been extensively studied by cognitive scientists for decades. Our approach involves leveraging Iterated Learning (IL), a Bayesian framework that elucidates how subtle biases are magnified during human cultural evolution, to explain some behaviors of LLMs. This paper outlines key characteristics of agents' behavior in the Bayesian-IL framework, including predictions that are supported by experimental verification with various LLMs. This theoretical framework could help to more effectively predict and guide the evolution of LLMs in desired directions.
@@ -23,13 +23,13 @@ You can just open the jupyter notebook file, run the code, and find the chat log
 - API of GPT, Claude, Mistral
 
 # Reference
-For technical details and full experimental results, please check [our paper]( ).
+For technical details and full experimental results, please check [our paper](https://arxiv.org/abs/2404.04286).
 ```
 @inproceedings{ren:iicl,
     author = {Yi Ren and Shangmin Guo and Linlu Qiu and Bailin Wang and Danica J. Sutherland},
-    title = {Language Model Evolution: An Iterated Learning Perspective},
+    title = {Bias Amplification in Language Model Evolution: An Iterated Learning Perspective},
     year = {2024},
-    booktitle = {arxiv},
+    booktitle = {NeurIPS},
 }
 ```
 
